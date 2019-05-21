@@ -1,0 +1,17 @@
+$theme-colors: (
+  "primary": #d823b1,
+  "danger": #ff4136
+);
+
+$border-radius: 1rem;
+
+// @import "node_modules/bootstrap/scss/bootstrap";
+
+@import "node_modules/bootstrap/scss/functions";
+@import "node_modules/bootstrap/scss/variables";
+@import "node_modules/bootstrap/scss/mixins";
+
+@import "node_modules/bootstrap/scss/grid";
+@import "node_modules/bootstrap/scss/bootstrap-grid";
+@import "node_modules/bootstrap/scss/buttons";
+// @import "node_modules/bootstrap/scss/reboot";
